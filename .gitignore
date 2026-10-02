@@ -1,0 +1,6 @@
+# 真实健康数据永不入库
+_private/
+*.local.md
+
+# macOS
+.DS_Store
