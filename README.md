@@ -40,7 +40,7 @@ Skill 要装在**爸妈自己的豆包账号**里，一般需要孩子帮忙装�
 
 简单版：
 
-1. 下载本仓库，找到 [`my-health-keeper/`](my-health-keeper/) 文件夹（里面有 `SKILL.md` 和 `页面模板.md`）
+1. 下载本仓库，找到 [`my-health-keeper/`](my-health-keeper/) 文件夹（里面有 `SKILL.md` 和 `page-templates.md`）
 2. 用爸妈的账号登录豆包电脑版 → 插件 · 技能 · 伙伴 → 技能 → 添加 → 上传技能 → 选择这个文件夹
 3. 新建一个项目叫「我的健康」，在里面说：「帮我建个健康档案」
 4. 让爸妈以后有身体上的事，就到「我的健康」里问
@@ -53,7 +53,7 @@ Skill 要装在**爸妈自己的豆包账号**里，一般需要孩子帮忙装�
 my-health-keeper/
 ├── my-health-keeper/        ← 上传这个文件夹
 │   ├── SKILL.md             Skill 主体：规则、流程、示例
-│   └── 页面模板.md           健康档案的页面结构和模板
+│   └── page-templates.md           健康档案的页面结构和模板
 ├── docs/
 │   └── 子女安装指南.md
 └── tests/
